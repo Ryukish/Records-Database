@@ -1,0 +1,4 @@
+{id:1234567,first:Mary,last:Green,DOB:1996-10-03,GPA:4.0}
+{id:1234568,first:Peter,last:White,DOB:1997-05-22,GPA:3.8}
+{id:1654238,first:Nick,last:Park,DOB:1995-08-18,GPA:4.0}
+{id:1234587,first:Katy,last:Green,DOB:1995-08-18,GPA:4.0}

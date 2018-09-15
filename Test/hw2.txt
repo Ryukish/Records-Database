@@ -1,5 +1,3 @@
-# Linked-List-Merge-sort
-
 /*
 Read in to linked list
 The input has a fixed order
