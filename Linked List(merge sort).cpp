@@ -12,7 +12,7 @@ One record per Line (end with \n)
 ignore : { : ,
 or
 you can reuse them when you print out to file
-
+//Mathuranth Metivier
 struct student{
 int id;
 string first;
@@ -512,6 +512,7 @@ public:
 	}
 
 	student* mergefinalDOBS(student* frontpart, student* backpart) {
+		//Mathuranth Metivier
 		student* mergefinalD = NULL;
 		string date1, year1, month1, day1;
 		string date2, year2, month2, day2;
@@ -590,6 +591,7 @@ public:
 		return mergefinalD;
 
 	}
+	//Mathuranth Metivier
 
 	student* mergefinalGPA(student* frontpart, student* backpart) {
 		student* mergefinalG = NULL;
@@ -798,5 +800,5 @@ int main(int argc, char* argv[]) {
 	thelist.print(outfilenameB.c_str());
 
 	return 0;
-
+//Mathuranth Metivier
 }
