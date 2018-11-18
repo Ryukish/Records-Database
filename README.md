@@ -20,33 +20,26 @@ string DOB
 double gpa;
 }
 ```
+### General rules
+* use 'while (getline, str)' to grab each line to the end of file
+* same ID = duplicated record
+* update with the latter one (update with the later one)
+* if somebody's name has more than one word, the separator would be underline "_"
+* No empty values will be given in the columns
+* no other character or space will be given(no need for me to check)
 
-use this to grab each line to the end of file
-while (getline, str)
-same ID = duplicated record
-update with the latter one (update with the later one)
-if somebody's name has more than one word, the separator would be underline "_"
-No empty values will be given in the columns
-no other character or space will be given(no need for me to check)
+## Types of Sorts
 
-## ----------------------------------------------------------------------------------------
-
-sort
-types of sorts
-ID
-FIRST name
-LAST name
-DOB (yyyy-mm-dd)
-GPA (double)
-(all case sensitive)
+* ID
+* FIRST name
+* LAST name
+* DOB (yyyy-mm-dd)
+* GPA (double)
+* (all case sensitive)
 
 If two or more records by passing all commands have same order, the one
 with lower id value should be outputted first.
 
-## ----------------------------------------------------------------------------------------
-
-output to file
-Output should be based on the sequence of commands
-commands top -> bottom (sort from the previous sort)
-output line end with \n
+## Output to File
+Output should be based on the sequence of commands commands top -> bottom output line end with \n
 
