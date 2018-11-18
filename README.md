@@ -1,8 +1,9 @@
 # Linked-List-Merge-sort
 
 
-Read in to linked list
-The input has a fixed order
+* Read into linked list
+* Do commands
+* Output to file
 
 One record per Line (end with \n)
 ```
